@@ -1,0 +1,147 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "passport_id",
+      "text": "MH072310",
+      "points": [
+        [
+          1157.142857142857,
+          1237.5454545454545
+        ],
+        [
+          1288.3116883116884,
+          1268.064935064935
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "full_name",
+      "text": "aye win",
+      "points": [
+        [
+          798.7012987012987,
+          1297.935064935065
+        ],
+        [
+          918.8311688311688,
+          1326.5064935064934
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "myanmar",
+      "points": [
+        [
+          803.2467532467532,
+          1356.3766233766232
+        ],
+        [
+          945.4545454545454,
+          1386.8961038961038
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "06 JUN 1998",
+      "points": [
+        [
+          798.7012987012987,
+          1416.7662337662337
+        ],
+        [
+          950.6493506493506,
+          1444.038961038961
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "F",
+      "points": [
+        [
+          796.1038961038961,
+          1475.8571428571427
+        ],
+        [
+          822.077922077922,
+          1506.3766233766232
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "01 MAR 2023",
+      "points": [
+        [
+          800.6493506493506,
+          1533.0
+        ],
+        [
+          962.3376623376623,
+          1564.168831168831
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "29 FEB 2028",
+      "points": [
+        [
+          800.6493506493506,
+          1589.4935064935064
+        ],
+        [
+          952.5974025974026,
+          1618.7142857142856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "mudon",
+      "points": [
+        [
+          1058.4415584415585,
+          1471.3116883116882
+        ],
+        [
+          1163.6363636363637,
+          1499.8831168831168
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400101_passport_1.png",
+  "imageData": null,
+  "imageHeight": 2366,
+  "imageWidth": 1695,
+  "text": ""
+}

@@ -1,0 +1,352 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "employee_name_field_th",
+      "text": "ชื่อผู้รับใบอนุญาตทำงาน",
+      "points": [
+        [
+          425.0378317334839,
+          366.5160926030491
+        ],
+        [
+          577.6493506493506,
+          392.2077922077922
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employee_name_field_en",
+      "text": "Name of work permit holder",
+      "points": [
+        [
+          581.2056074766356,
+          363.39252336448607
+        ],
+        [
+          786.8130841121496,
+          387.69158878504686
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employee_name",
+      "text": "MR. AOW THU THET",
+      "points": [
+        [
+          426.5822784810126,
+          398.1012658227848
+        ],
+        [
+          594.4444444444445,
+          417.07692307692315
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_id_field_th",
+      "text": "หมายเลขประจำตัวคนต่างด้าว",
+      "points": [
+        [
+          428.53061224489795,
+          419.38775510204084
+        ],
+        [
+          612.7142857142858,
+          441.3265306122449
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_id_field_en",
+      "text": "Foreigner identification No.",
+      "points": [
+        [
+          615.4471544715448,
+          418.59349593495926
+        ],
+        [
+          804.8780487804878,
+          439.73170731707313
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_id",
+      "text": "1002642004827",
+      "points": [
+        [
+          431.8181818181818,
+          445.4545454545455
+        ],
+        [
+          562.8787878787879,
+          468.49494949494954
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id_field_th",
+      "text": "หนังสือเดินทางหรือเอกสารใช้แทนหนังสือเดินทางเลขที่",
+      "points": [
+        [
+          432.57575757575756,
+          525.7575757575758
+        ],
+        [
+          733.3333333333334,
+          553.5528455284551
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id_field_en",
+      "text": "Passport or Travel Document No.",
+      "points": [
+        [
+          735.7723577235772,
+          525.0975609756097
+        ],
+        [
+          944.7154471544716,
+          551.1138211382113
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "CC7464365",
+      "points": [
+        [
+          430.72340425531905,
+          560.4893617021277
+        ],
+        [
+          531.7872340425531,
+          584.9574468085107
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_cert_id_field_th",
+      "text": "ใบอนุญาตทำงานเลขที่",
+      "points": [
+        [
+          452.88235294117635,
+          602.8235294117648
+        ],
+        [
+          592.2941176470588,
+          636.3529411764706
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_cert_id_field_en",
+      "text": "Work Permit No.",
+      "points": [
+        [
+          593.6363636363636,
+          606.2727272727273
+        ],
+        [
+          710.9090909090909,
+          629.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_cert_id",
+      "text": "1002642004827",
+      "points": [
+        [
+          452.4310344827586,
+          643.9655172413793
+        ],
+        [
+          586.9137931034483,
+          664.6551724137931
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_end_date_field_th",
+      "text": "วันสิ้นสุดใบอนุญาตทำงาน",
+      "points": [
+        [
+          779.1551724137931,
+          600.0
+        ],
+        [
+          940.3620689655173,
+          627.5862068965517
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_end_date_field_en",
+      "text": "Date of Expiry",
+      "points": [
+        [
+          943.5897435897435,
+          600.6410256410256
+        ],
+        [
+          1041.0256410256409,
+          621.1538461538462
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_end_date",
+      "text": "13 FEB 2024",
+      "points": [
+        [
+          782.6923076923076,
+          638.4615384615385
+        ],
+        [
+          885.2564102564103,
+          657.051282051282
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name_field_th",
+      "text": "ชื่อนายจ้าง",
+      "points": [
+        [
+          348.648401826484,
+          1597.7123287671234
+        ],
+        [
+          420.0,
+          1620.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name_field_en",
+      "text": "Name of employer",
+      "points": [
+        [
+          423.3333333333334,
+          1598.0
+        ],
+        [
+          554.6666666666667,
+          1620.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name",
+      "text": "บริษัทบี บิ๊กวีล จำกัด",
+      "points": [
+        [
+          349.3333333333333,
+          1621.3333333333333
+        ],
+        [
+          507.3333333333333,
+          1647.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "doc_title_th",
+      "text": "ใบอนุญาตทำงาน",
+      "points": [
+        [
+          628.595744680851,
+          279.78723404255317
+        ],
+        [
+          871.1176470588235,
+          325.7647058823529
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "doc_title_en",
+      "text": "WORK PERMIT",
+      "points": [
+        [
+          684.4468085106382,
+          327.12765957446805
+        ],
+        [
+          814.7659574468084,
+          346.27659574468083
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\ework\\VW2400096_ework_1.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654,
+  "image_text": "",
+  "text": ""
+}

@@ -1,0 +1,61 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "doc_title",
+      "text": "ใบตอบรับการแจ้งเกี่ยวกับการทำงานของคนต่างด้าว\n",
+      "points": [
+        [
+          500.0,
+          423.8076923076923
+        ],
+        [
+          1192.3076923076924,
+          468.03846153846155
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_field",
+      "text": "เรียน คนต่างด้าว",
+      "points": [
+        [
+          139.4230769230769,
+          543.0384615384614
+        ],
+        [
+          341.3461538461538,
+          586.3076923076923
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_name",
+      "text": "(MI MON CHAN ๖๖๕๑๐๖๐๑๕๗๓๕๙)",
+      "points": [
+        [
+          346.15384615384613,
+          541.1153846153845
+        ],
+        [
+          834.6153846153846,
+          586.3076923076923
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400101_foreign_ack_3.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654
+}

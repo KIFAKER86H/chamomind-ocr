@@ -1,0 +1,164 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "first_name",
+      "text": "phimphilath\n",
+      "points": [
+        [
+          706.9117647058824,
+          1250.0
+        ],
+        [
+          869.2647058823529,
+          1275.2941176470588
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "last_name",
+      "text": "vanpheng",
+      "points": [
+        [
+          706.9117647058824,
+          1300.0
+        ],
+        [
+          838.0882352941177,
+          1326.4705882352941
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "ลาว",
+      "points": [
+        [
+          712.7941176470589,
+          1355.8823529411766
+        ],
+        [
+          758.6764705882354,
+          1377.0588235294117
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "05/06/1985",
+      "points": [
+        [
+          702.2058823529412,
+          1404.1176470588236
+        ],
+        [
+          877.5,
+          1431.1764705882354
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "F",
+      "points": [
+        [
+          701.6176470588235,
+          1451.1764705882354
+        ],
+        [
+          726.3235294117648,
+          1475.8823529411766
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "25/01/2017",
+      "points": [
+        [
+          705.1470588235295,
+          1505.2941176470588
+        ],
+        [
+          875.7352941176471,
+          1530.5882352941178
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "24/01/2027",
+      "points": [
+        [
+          701.6176470588235,
+          1555.2941176470588
+        ],
+        [
+          875.1470588235294,
+          1581.1764705882354
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "P1841439",
+      "points": [
+        [
+          1093.9705882352941,
+          1205.2941176470588
+        ],
+        [
+          1283.9705882352941,
+          1238.235294117647
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "champassak",
+      "points": [
+        [
+          1027.5,
+          1404.7058823529412
+        ],
+        [
+          1189.8529411764705,
+          1431.764705882353
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400095_passport_1.png",
+  "imageData": null,
+  "imageHeight": 2366,
+  "imageWidth": 1695,
+  "text": ""
+}

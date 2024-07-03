@@ -5,7 +5,7 @@ from ocr_engine import ocr_easyocr
 
 def eval(parsed_jsons, ocr_engine=ocr_easyocr):
     # TODO: fix orient/crop before ocr?
-        
+    print(parsed_jsons) 
     for json_data in parsed_jsons:
         filename = json_data['filename']
         doc_type = json_data['doc_type']
@@ -16,7 +16,7 @@ def eval(parsed_jsons, ocr_engine=ocr_easyocr):
         img = cv2.imread(str(image_path))
         img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
         ocr_results = ocr_engine(img)
-        
+        print(img)
         ocr_result_corners = []
         for result in ocr_results:
             bounding_box = result[0]
@@ -48,7 +48,7 @@ def eval(parsed_jsons, ocr_engine=ocr_easyocr):
         break
 
 if __name__ == '__main__':
-    dataset_path = 'orig_doc_by_type'
+    dataset_path = 'orig_doc_by_type\juris_record'
     parsed_jsons = parse_anylabeling_json(dataset_path)
 
     eval(parsed_jsons, ocr_engine=ocr_easyocr)

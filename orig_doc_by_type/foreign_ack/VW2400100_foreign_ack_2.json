@@ -1,0 +1,62 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "doc_title",
+      "text": "ใบตอบรับการแจ้งเกี่ยวกับการทำงานของคนต่างด้าว\n",
+      "points": [
+        [
+          498.186440677966,
+          413.4915254237287
+        ],
+        [
+          1194.7966101694917,
+          458.40677966101686
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_field",
+      "text": "เรียน คนต่างด้าว",
+      "points": [
+        [
+          135.47457627118635,
+          526.2033898305084
+        ],
+        [
+          341.4067796610169,
+          576.2033898305084
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_name",
+      "text": "(HNOR JAYJAMTUN ๖๖๕๕0๖0๔๕๓๕๑๗)",
+      "points": [
+        [
+          344.79661016949143,
+          527.050847457627
+        ],
+        [
+          899.0338983050847,
+          578.7457627118644
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400100_foreign_ack_2.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654,
+  "text": ""
+}

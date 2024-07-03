@@ -1,0 +1,164 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "first_name",
+      "text": "ye win htet",
+      "points": [
+        [
+          610.7209302325581,
+          1106.9767441860465
+        ],
+        [
+          775.0620155038758,
+          1139.53488372093
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "last_name",
+      "text": "-",
+      "points": [
+        [
+          606.0697674418603,
+          1165.1162790697674
+        ],
+        [
+          636.3023255813953,
+          1188.3720930232557
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "myanmar",
+      "points": [
+        [
+          610.720930232558,
+          1210.8527131782946
+        ],
+        [
+          750.2558139534882,
+          1241.860465116279
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "16 JUL 1996",
+      "points": [
+        [
+          607.6201550387595,
+          1265.891472868217
+        ],
+        [
+          767.3100775193798,
+          1295.3488372093025
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "M",
+      "points": [
+        [
+          608.3953488372092,
+          1313.1782945736434
+        ],
+        [
+          641.7286821705426,
+          1342.6356589147285
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "17 NOV 2022",
+      "points": [
+        [
+          612.2713178294573,
+          1365.1162790697674
+        ],
+        [
+          775.8372093023255,
+          1392.2480620155038
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "16 NOV 2026",
+      "points": [
+        [
+          608.3953488372092,
+          1412.4031007751937
+        ],
+        [
+          781.2635658914728,
+          1442.6356589147285
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "CC7464363",
+      "points": [
+        [
+          1015.3720930232557,
+          1055.8139534883721
+        ],
+        [
+          1157.2325581395348,
+          1088.3720930232557
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "thaton",
+      "points": [
+        [
+          851.8062015503875,
+          1262.015503875969
+        ],
+        [
+          960.3333333333333,
+          1290.6976744186047
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400096_passport_2.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654,
+  "text": ""
+}

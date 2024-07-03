@@ -1,0 +1,46 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "doc_title",
+      "text": "ใบรับคำขอ",
+      "points": [
+        [
+          819.3076923076924,
+          410.02564102564105
+        ],
+        [
+          1011.6153846153845,
+          474.1282051282052
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "signature",
+      "text": "นายจ้าง ห้างหุ้นส่วนจำกัด เอเจ อินเตอร์ซัพพลาย เชียงใหม่",
+      "points": [
+        [
+          827.0,
+          756.1794871794872
+        ],
+        [
+          1383.4102564102566,
+          807.4615384615385
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400100_app_receipt_1.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654,
+  "text": "",
+  "image_text": "ใบรับคำขอ"
+}

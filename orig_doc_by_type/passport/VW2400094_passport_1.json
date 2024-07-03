@@ -1,0 +1,164 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "passport_id",
+      "text": "P1841431",
+      "points": [
+        [
+          1279.6958041958042,
+          1315.3846153846155
+        ],
+        [
+          1470.6048951048951,
+          1351.048951048951
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "first_name",
+      "text": "bouttavong",
+      "points": [
+        [
+          896.0426356589147,
+          1363.1782945736436
+        ],
+        [
+          1059.608527131783,
+          1385.6589147286822
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "last_name",
+      "text": "hatsady",
+      "points": [
+        [
+          892.5542635658915,
+          1411.627906976744
+        ],
+        [
+          1008.0581395348837,
+          1437.2093023255813
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "ลาว",
+      "points": [
+        [
+          896.0426356589147,
+          1468.2170542635658
+        ],
+        [
+          941.3914728682171,
+          1487.2093023255813
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "10/09/1986",
+      "points": [
+        [
+          896.8178294573644,
+          1513.953488372093
+        ],
+        [
+          1065.03488372093,
+          1538.7596899224807
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "F",
+      "points": [
+        [
+          894.1046511627907,
+          1562.4031007751937
+        ],
+        [
+          910.3837209302326,
+          1584.8837209302326
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "27/01/2017",
+      "points": [
+        [
+          894.1046511627907,
+          1615.5038759689921
+        ],
+        [
+          1065.03488372093,
+          1636.4341085271317
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "26/01/2027",
+      "points": [
+        [
+          893.3294573643411,
+          1665.5038759689921
+        ],
+        [
+          1066.5852713178294,
+          1689.53488372093
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "savannakhet",
+      "points": [
+        [
+          1234.4729344729344,
+          1515.6695156695155
+        ],
+        [
+          1413.6752136752136,
+          1541.5954415954416
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400094_passport_1.png",
+  "imageData": null,
+  "imageHeight": 2473,
+  "imageWidth": 1851,
+  "text": ""
+}

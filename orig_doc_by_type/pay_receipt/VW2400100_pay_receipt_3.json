@@ -1,0 +1,95 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "doc_title",
+      "text": "ใบเสร็จรับเงิน",
+      "points": [
+        [
+          779.2988505747127,
+          504.5977011494253
+        ],
+        [
+          1012.632183908046,
+          564.3678160919541
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "payer_field",
+      "text": "ได้รับเงินจาก",
+      "points": [
+        [
+          390.7931034482759,
+          787.3563218390805
+        ],
+        [
+          533.3218390804598,
+          833.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "payer_name",
+      "text": "HNOR JAY JAMTUN",
+      "points": [
+        [
+          551.7126436781609,
+          780.4597701149426
+        ],
+        [
+          817.2298850574713,
+          818.3908045977012
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_field",
+      "text": "ชื่อนายจ้าง/สถานประกอบการ",
+      "points": [
+        [
+          395.39080459770116,
+          905.7471264367816
+        ],
+        [
+          722.9770114942529,
+          957.471264367816
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name",
+      "text": "บ.ซีเอสพีซี พลาสเทคอินดัสเทรียล จำกัด",
+      "points": [
+        [
+          743.6666666666667,
+          909.1954022988506
+        ],
+        [
+          1211.4827586206898,
+          950.5747126436781
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "pay_receipt_3.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654
+}

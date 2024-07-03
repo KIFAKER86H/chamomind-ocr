@@ -1,0 +1,164 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "first_name",
+      "text": "mi mon chan",
+      "points": [
+        [
+          820.7142857142856,
+          1404.2857142857142
+        ],
+        [
+          1012.8571428571427,
+          1436.4285714285713
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "last_name",
+      "text": "-",
+      "points": [
+        [
+          817.1428571428571,
+          1454.2857142857142
+        ],
+        [
+          849.2857142857142,
+          1478.5714285714284
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "myanmar",
+      "points": [
+        [
+          818.5714285714284,
+          1505.7142857142856
+        ],
+        [
+          964.2857142857142,
+          1534.2857142857142
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "14 SEP 2003",
+      "points": [
+        [
+          821.4285714285713,
+          1557.1428571428569
+        ],
+        [
+          972.8571428571428,
+          1584.2857142857142
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "F",
+      "points": [
+        [
+          817.8571428571428,
+          1604.2857142857142
+        ],
+        [
+          842.8571428571428,
+          1627.1428571428569
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "07 MAY 2023",
+      "points": [
+        [
+          816.4285714285713,
+          1660.7142857142856
+        ],
+        [
+          986.4285714285713,
+          1685.7142857142856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "06 MAY 2027",
+      "points": [
+        [
+          817.8571428571428,
+          1706.428571428571
+        ],
+        [
+          984.9999999999999,
+          1736.428571428571
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "CC8071724",
+      "points": [
+        [
+          1222.142857142857,
+          1361.4285714285713
+        ],
+        [
+          1367.8571428571427,
+          1386.4285714285713
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "mudon",
+      "points": [
+        [
+          1055.0,
+          1556.4285714285713
+        ],
+        [
+          1164.2857142857144,
+          1589.2857142857142
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400101_passport_5.png",
+  "imageData": null,
+  "imageHeight": 2366,
+  "imageWidth": 1695,
+  "text": ""
+}

@@ -1,0 +1,129 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "doc_title",
+      "text": "ทะเบียนใบอนุญาตทำงานของคนต่างด้าวตามมติคณะรัฐมนตรี",
+      "points": [
+        [
+          399.5,
+          235.25000000000006
+        ],
+        [
+          1122.0,
+          285.25000000000006
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_id",
+      "text": "0082051245924",
+      "points": [
+        [
+          526.0,
+          753.0
+        ],
+        [
+          676.0,
+          775.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cert_id",
+      "text": "8200654004543",
+      "points": [
+        [
+          1087.0,
+          754.0
+        ],
+        [
+          1232.0,
+          780.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "thai_name",
+      "text": "นาง เอ๋ วิน",
+      "points": [
+        [
+          527.0,
+          781.0
+        ],
+        [
+          625.0,
+          812.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "MHD72310",
+      "points": [
+        [
+          528.0,
+          1019.0
+        ],
+        [
+          630.0,
+          1041.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name",
+      "text": "นายกิจจา แต่สกุล",
+      "points": [
+        [
+          525.0,
+          1296.0
+        ],
+        [
+          670.0,
+          1326.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "13 กุมภาพันธ์ 2567",
+      "points": [
+        [
+          1080.0,
+          1582.0
+        ],
+        [
+          1253.0,
+          1615.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400101_permit50_1.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654
+}

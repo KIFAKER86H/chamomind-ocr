@@ -1,0 +1,164 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "first_name",
+      "text": "hnor jayjamtun",
+      "points": [
+        [
+          732.8571428571428,
+          1219.9999999999998
+        ],
+        [
+          974.2857142857142,
+          1249.285714285714
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "last_name",
+      "text": "sai naw",
+      "points": [
+        [
+          732.1428571428571,
+          1270.7142857142856
+        ],
+        [
+          852.1428571428571,
+          1295.7142857142856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "myanmar",
+      "points": [
+        [
+          732.8571428571428,
+          1322.8571428571427
+        ],
+        [
+          880.7142857142857,
+          1349.2857142857142
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "07 JAN 2004",
+      "points": [
+        [
+          735.7142857142857,
+          1369.2857142857142
+        ],
+        [
+          894.2857142857142,
+          1400.7142857142856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "M",
+      "points": [
+        [
+          734.9999999999999,
+          1419.9999999999998
+        ],
+        [
+          764.9999999999999,
+          1449.9999999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "29 MAR 2023",
+      "points": [
+        [
+          737.1428571428571,
+          1470.7142857142856
+        ],
+        [
+          909.9999999999999,
+          1499.9999999999998
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "28 MAR 2027",
+      "points": [
+        [
+          737.8571428571428,
+          1522.8571428571427
+        ],
+        [
+          910.7142857142857,
+          1546.4285714285713
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "CC8016171",
+      "points": [
+        [
+          1132.8571428571427,
+          1166.4285714285713
+        ],
+        [
+          1277.142857142857,
+          1195.7142857142856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "kyeth",
+      "points": [
+        [
+          976.4285714285713,
+          1369.2857142857142
+        ],
+        [
+          1062.1428571428569,
+          1397.142857142857
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400100_passport_2.png",
+  "imageData": null,
+  "imageHeight": 2366,
+  "imageWidth": 1695,
+  "text": ""
+}

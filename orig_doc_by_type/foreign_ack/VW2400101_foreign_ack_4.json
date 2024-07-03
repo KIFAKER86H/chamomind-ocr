@@ -1,0 +1,61 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "doc_title",
+      "text": "ใบตอบรับการแจ้งเกี่ยวกับการทำงานของคนต่างด้าว\n",
+      "points": [
+        [
+          512.981308411215,
+          450.30841121495337
+        ],
+        [
+          1205.5046728971963,
+          517.5981308411216
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_name",
+      "text": "(AYE WIN ๐๐๘๒๐๕๑๒๔๕๙๒๔)",
+      "points": [
+        [
+          356.90654205607484,
+          576.4766355140188
+        ],
+        [
+          767.1869158878505,
+          626.9439252336449
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_field",
+      "text": "เรียน คนต่างด้าว",
+      "points": [
+        [
+          145.6915887850468,
+          574.6074766355141
+        ],
+        [
+          350.36448598130846,
+          620.4018691588786
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400101_foreign_ack_4.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654
+}

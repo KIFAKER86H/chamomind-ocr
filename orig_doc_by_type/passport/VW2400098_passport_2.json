@@ -1,0 +1,164 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "first_name",
+      "text": "zay yar lin",
+      "points": [
+        [
+          565.3543307086615,
+          1043.3070866141732
+        ],
+        [
+          722.0472440944882,
+          1071.6535433070867
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "last_name",
+      "text": "zayar lin lett",
+      "points": [
+        [
+          563.779527559055,
+          1093.7007874015749
+        ],
+        [
+          762.992125984252,
+          1122.8346456692914
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "myanmar",
+      "points": [
+        [
+          563.779527559055,
+          1142.51968503937
+        ],
+        [
+          707.8740157480315,
+          1170.8661417322835
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "19 FEB 2004",
+      "points": [
+        [
+          566.9291338582677,
+          1193.7007874015746
+        ],
+        [
+          723.6220472440945,
+          1222.8346456692914
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "",
+      "points": [
+        [
+          568.503937007874,
+          1243.3070866141732
+        ],
+        [
+          593.7007874015748,
+          1268.503937007874
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "13 MAR 2023",
+      "points": [
+        [
+          564.5669291338583,
+          1294.4881889763778
+        ],
+        [
+          739.3700787401575,
+          1323.6220472440946
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "102 MAR 2027",
+      "points": [
+        [
+          566.9291338582677,
+          1340.1574803149606
+        ],
+        [
+          735.4330708661417,
+          1376.3779527559054
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "CC7952305",
+      "points": [
+        [
+          965.3543307086615,
+          988.9763779527558
+        ],
+        [
+          1118.1102362204724,
+          1021.259842519685
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "thanbyuzayat",
+      "points": [
+        [
+          807.0866141732283,
+          1192.9133858267717
+        ],
+        [
+          1011.8110236220472,
+          1224.4094488188975
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400098_passport_2.png",
+  "imageData": null,
+  "imageHeight": 2394,
+  "imageWidth": 1735,
+  "text": ""
+}

@@ -1,0 +1,165 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "first_name",
+      "text": "chommala\n",
+      "points": [
+        [
+          829.8701298701299,
+          1257.6753246753246
+        ],
+        [
+          966.2337662337662,
+          1281.7012987012986
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "last_name",
+      "text": "sikham",
+      "points": [
+        [
+          830.5194805194806,
+          1308.9740259740258
+        ],
+        [
+          922.7272727272727,
+          1333.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "ลาว",
+      "points": [
+        [
+          836.3636363636364,
+          1359.6233766233765
+        ],
+        [
+          883.7662337662338,
+          1382.3506493506493
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "09/11/1979",
+      "points": [
+        [
+          826.6233766233767,
+          1414.168831168831
+        ],
+        [
+          1000.6493506493506,
+          1438.1948051948052
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "F",
+      "points": [
+        [
+          824.6753246753246,
+          1460.2727272727273
+        ],
+        [
+          846.1038961038961,
+          1483.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "25/01/2017",
+      "points": [
+        [
+          827.2727272727273,
+          1512.8701298701299
+        ],
+        [
+          999.3506493506493,
+          1537.5454545454545
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "24/01/2027",
+      "points": [
+        [
+          825.974025974026,
+          1560.9220779220777
+        ],
+        [
+          998.7012987012987,
+          1590.142857142857
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "P1841440",
+      "points": [
+        [
+          1223.3766233766235,
+          1209.6233766233765
+        ],
+        [
+          1411.6883116883116,
+          1238.1948051948052
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "khammouane\n",
+      "points": [
+        [
+          1150.0,
+          1412.2207792207794
+        ],
+        [
+          1325.9740259740258,
+          1441.4415584415585
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400094_passport_2.png",
+  "imageData": null,
+  "imageHeight": 2366,
+  "imageWidth": 1695,
+  "text": "",
+  "image_text": "chommala"
+}

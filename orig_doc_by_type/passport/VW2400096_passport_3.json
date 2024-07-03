@@ -1,0 +1,164 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "first_name",
+      "text": "han win aung",
+      "points": [
+        [
+          698.5714285714284,
+          1204.142857142857
+        ],
+        [
+          904.2857142857141,
+          1239.142857142857
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "myanmar",
+      "points": [
+        [
+          696.4285714285713,
+          1307.7142857142856
+        ],
+        [
+          844.9999999999999,
+          1341.2857142857142
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "last_name",
+      "text": "-",
+      "points": [
+        [
+          692.8571428571428,
+          1252.7142857142856
+        ],
+        [
+          742.1428571428571,
+          1281.2857142857142
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "14 AUG 1998",
+      "points": [
+        [
+          696.4285714285713,
+          1361.2857142857142
+        ],
+        [
+          867.8571428571428,
+          1389.8571428571427
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "M",
+      "points": [
+        [
+          697.1428571428571,
+          1407.0
+        ],
+        [
+          727.1428571428571,
+          1437.7142857142856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "11 MAY 2023",
+      "points": [
+        [
+          699.2857142857142,
+          1460.5714285714284
+        ],
+        [
+          865.7142857142857,
+          1488.4285714285713
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "10 MAY 2027",
+      "points": [
+        [
+          698.5714285714286,
+          1510.5714285714284
+        ],
+        [
+          865.0,
+          1539.142857142857
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "CC8217922",
+      "points": [
+        [
+          1101.4285714285713,
+          1157.7142857142856
+        ],
+        [
+          1250.7142857142856,
+          1189.857142857143
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "paung",
+      "points": [
+        [
+          937.8571428571428,
+          1357.7142857142856
+        ],
+        [
+          1032.142857142857,
+          1387.7142857142856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400096_passport_3.png",
+  "imageData": null,
+  "imageHeight": 2394,
+  "imageWidth": 1735,
+  "text": ""
+}

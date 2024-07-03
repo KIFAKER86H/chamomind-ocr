@@ -1,0 +1,164 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "first_name",
+      "text": "naw hla hla aye",
+      "points": [
+        [
+          756.989247311828,
+          1201.52688172043
+        ],
+        [
+          999.4623655913978,
+          1231.6344086021506
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "last_name",
+      "text": "-",
+      "points": [
+        [
+          752.6881720430107,
+          1253.6774193548388
+        ],
+        [
+          794.0860215053763,
+          1272.494623655914
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "myanmar",
+      "points": [
+        [
+          751.6129032258065,
+          1302.0645161290322
+        ],
+        [
+          900.0,
+          1328.9462365591398
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "20 FEB 1997",
+      "points": [
+        [
+          756.4516129032257,
+          1352.6021505376343
+        ],
+        [
+          912.9032258064516,
+          1380.5591397849462
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "F",
+      "points": [
+        [
+          752.6881720430107,
+          1403.6774193548388
+        ],
+        [
+          772.5806451612902,
+          1427.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "28 FEB 2023",
+      "points": [
+        [
+          754.8387096774193,
+          1455.2903225806451
+        ],
+        [
+          912.3655913978495,
+          1482.1720430107528
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "27 FEB 2027",
+      "points": [
+        [
+          753.763440860215,
+          1504.752688172043
+        ],
+        [
+          909.6774193548387,
+          1531.0967741935483
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "CC7924384",
+      "points": [
+        [
+          1160.215053763441,
+          1153.1397849462367
+        ],
+        [
+          1309.1397849462364,
+          1186.47311827957
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "shan ywathit",
+      "points": [
+        [
+          998.3870967741935,
+          1355.8279569892472
+        ],
+        [
+          1196.774193548387,
+          1382.1720430107528
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400109_passport_1.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654,
+  "text": ""
+}

@@ -6,7 +6,7 @@ from PIL import Image, ImageFont, ImageDraw
 
 def ocr_easyocr(img):
     languages = ['th', 'en']
-    reader = easyocr.Reader(languages)
+    reader = easyocr.Reader(languages, gpu=True )
     results = reader.readtext(img)
     return results
 

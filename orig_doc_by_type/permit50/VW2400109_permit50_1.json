@@ -1,0 +1,129 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "doc_title",
+      "text": "ทะเบียนใบอนุญาตทำงานของคนต่างด้าวตามมติคณะรัฐมนตรี",
+      "points": [
+        [
+          395.0,
+          136.0
+        ],
+        [
+          1133.0,
+          197.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_id",
+      "text": "1008642000605",
+      "points": [
+        [
+          541.0,
+          679.0
+        ],
+        [
+          686.0,
+          701.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cert_id",
+      "text": "1008642000605",
+      "points": [
+        [
+          1110.0,
+          674.0
+        ],
+        [
+          1254.0,
+          703.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "thai_name",
+      "text": "นางสาว นอ หลา หลา เอ",
+      "points": [
+        [
+          539.0,
+          715.0
+        ],
+        [
+          743.0,
+          736.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "CC7924384",
+      "points": [
+        [
+          541.0,
+          950.0
+        ],
+        [
+          649.0,
+          969.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name",
+      "text": "นายยงชิด วุฒิพงศาธร",
+      "points": [
+        [
+          542.0,
+          1237.0
+        ],
+        [
+          728.0,
+          1266.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "13 กุมภาพันธ์ 2567",
+      "points": [
+        [
+          1112.0,
+          1516.0
+        ],
+        [
+          1284.0,
+          1550.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400109_permit50_1.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654
+}

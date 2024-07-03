@@ -1,0 +1,164 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "first_name",
+      "text": "khin thidar tun",
+      "points": [
+        [
+          839.577922077922,
+          1256.4155844155844
+        ],
+        [
+          1061.0064935064934,
+          1288.8831168831168
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "last_name",
+      "text": "-",
+      "points": [
+        [
+          836.3311688311688,
+          1305.7662337662337
+        ],
+        [
+          868.1493506493506,
+          1331.090909090909
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "myanmar",
+      "points": [
+        [
+          840.2272727272727,
+          1355.7662337662339
+        ],
+        [
+          979.1883116883116,
+          1389.5324675324675
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "13 JAN 2003",
+      "points": [
+        [
+          835.0324675324675,
+          1405.7662337662339
+        ],
+        [
+          992.8246753246754,
+          1440.8311688311687
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "F",
+      "points": [
+        [
+          836.9805194805194,
+          1457.064935064935
+        ],
+        [
+          855.8116883116883,
+          1479.142857142857
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "24 DEC 2022",
+      "points": [
+        [
+          835.0324675324675,
+          1504.4675324675327
+        ],
+        [
+          993.474025974026,
+          1538.2337662337663
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "23 DEC 2026",
+      "points": [
+        [
+          833.7337662337662,
+          1554.4675324675325
+        ],
+        [
+          990.8766233766233,
+          1587.5844155844156
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "CC7834323",
+      "points": [
+        [
+          1242.1753246753246,
+          1214.857142857143
+        ],
+        [
+          1381.1363636363635,
+          1244.7272727272727
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "mudon",
+      "points": [
+        [
+          1077.2402597402597,
+          1410.9610389610389
+        ],
+        [
+          1181.7857142857142,
+          1438.2337662337663
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400101_passport_2.png",
+  "imageData": null,
+  "imageHeight": 2394,
+  "imageWidth": 1735,
+  "text": ""
+}

@@ -1,0 +1,164 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "first_name",
+      "text": "tong",
+      "points": [
+        [
+          724.3243243243243,
+          1235.135135135135
+        ],
+        [
+          801.8018018018017,
+          1263.9639639639638
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "last_name",
+      "text": "nang thaung",
+      "points": [
+        [
+          727.027027027027,
+          1289.1891891891892
+        ],
+        [
+          924.3243243243243,
+          1313.5135135135133
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "myanmar",
+      "points": [
+        [
+          725.2252252252251,
+          1336.036036036036
+        ],
+        [
+          872.072072072072,
+          1369.3693693693692
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "20 FEB 2004",
+      "points": [
+        [
+          730.6306306306305,
+          1385.5855855855855
+        ],
+        [
+          886.4864864864865,
+          1412.6126126126126
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "F",
+      "points": [
+        [
+          723.4234234234234,
+          1437.8378378378377
+        ],
+        [
+          741.4414414414414,
+          1463.0630630630628
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "01 MAR 2023",
+      "points": [
+        [
+          725.2252252252251,
+          1488.2882882882882
+        ],
+        [
+          899.9999999999999,
+          1511.7117117117116
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "28 FEB 2027",
+      "points": [
+        [
+          728.8288288288288,
+          1536.9369369369367
+        ],
+        [
+          891.8918918918918,
+          1563.0630630630628
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "CC7886166",
+      "points": [
+        [
+          1125.2252252252251,
+          1182.8828828828828
+        ],
+        [
+          1272.972972972973,
+          1209.0090090090089
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "mongkaing",
+      "points": [
+        [
+          969.3693693693693,
+          1384.6846846846845
+        ],
+        [
+          1138.7387387387387,
+          1408.108108108108
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400100_passport_1.png",
+  "imageData": null,
+  "imageHeight": 2421,
+  "imageWidth": 1774,
+  "text": ""
+}

@@ -1,0 +1,95 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "doc_title",
+      "text": "ใบเสร็จรับเงิน",
+      "points": [
+        [
+          743.3962264150942,
+          556.6037735849056
+        ],
+        [
+          975.4716981132075,
+          613.2075471698113
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "payer_field",
+      "text": "ได้รับเงินจาก",
+      "points": [
+        [
+          359.4339622641509,
+          845.2830188679245
+        ],
+        [
+          502.8301886792453,
+          888.6792452830189
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "payer_name",
+      "text": "TONG",
+      "points": [
+        [
+          523.5849056603773,
+          841.5094339622641
+        ],
+        [
+          612.2641509433962,
+          874.5283018867924
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_field",
+      "text": "ชื่อนายจ้าง/สถานประกอบการ",
+      "points": [
+        [
+          363.2075471698113,
+          964.1509433962264
+        ],
+        [
+          694.3396226415094,
+          1009.4339622641509
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name",
+      "text": "บ.ซีเอสพีซี พลาสเทคอินดัสเทรียล จำกัด",
+      "points": [
+        [
+          717.9245283018868,
+          964.1509433962264
+        ],
+        [
+          1179.245283018868,
+          995.2830188679245
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "pay_receipt_2.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654
+}

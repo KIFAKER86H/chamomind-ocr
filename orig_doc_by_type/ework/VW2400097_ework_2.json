@@ -1,0 +1,350 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "doc_title_th",
+      "text": "ใบอนุญาตทำงาน",
+      "points": [
+        [
+          725.5714285714287,
+          355.4285714285715
+        ],
+        [
+          971.2857142857143,
+          405.4285714285715
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "doc_title_en",
+      "text": "WORK PERMIT",
+      "points": [
+        [
+          783.470588235294,
+          406.3529411764706
+        ],
+        [
+          912.2941176470588,
+          425.7647058823529
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employee_name_field_th",
+      "text": "ชื่อผู้รับใบอนุญาตทำงาน",
+      "points": [
+        [
+          525.8235294117646,
+          436.94117647058823
+        ],
+        [
+          675.2352941176471,
+          465.1764705882353
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employee_name_field_en",
+      "text": "Name of work permit holder",
+      "points": [
+        [
+          678.7647058823529,
+          441.05882352941177
+        ],
+        [
+          880.5294117647059,
+          464.5882352941177
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employee_name",
+      "text": "MR. AYE SAN",
+      "points": [
+        [
+          527.5882352941176,
+          471.379679144385
+        ],
+        [
+          637.5882352941176,
+          494.32085561497325
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_id_field_th",
+      "text": "หมายเลขประจำตัวคนต่างด้าว",
+      "points": [
+        [
+          528.7647058823529,
+          494.5882352941176
+        ],
+        [
+          709.9411764705882,
+          513.4117647058822
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_id_field_en",
+      "text": "Foreigner identification No.",
+      "points": [
+        [
+          712.8823529411765,
+          494.0
+        ],
+        [
+          902.2941176470588,
+          515.7647058823529
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_id",
+      "text": "1300652018456",
+      "points": [
+        [
+          530.5294117647059,
+          518.1176470588235
+        ],
+        [
+          662.8823529411765,
+          539.8823529411765
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id_field_th",
+      "text": "หนังสือเดินทางหรือเอกสารใช้แทนหนังสือเดินทางเลขที่",
+      "points": [
+        [
+          528.1764705882352,
+          601.0588235294118
+        ],
+        [
+          829.3529411764705,
+          624.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id_field_en",
+      "text": "Passport or Travel Document No.",
+      "points": [
+        [
+          832.2941176470588,
+          605.1764705882352
+        ],
+        [
+          1041.1176470588234,
+          624.5882352941177
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "MG034348",
+      "points": [
+        [
+          530.2620320855614,
+          629.8823529411765
+        ],
+        [
+          618.4973262032084,
+          653.4117647058823
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_cert_id_field_th",
+      "text": "ใบอนุญาตทำงานเลขที่",
+      "points": [
+        [
+          546.4117647058823,
+          674.0
+        ],
+        [
+          685.8235294117646,
+          703.4117647058823
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_cert_id_field_en",
+      "text": "Work Permit No.",
+      "points": [
+        [
+          686.9999999999999,
+          679.2941176470589
+        ],
+        [
+          804.0588235294117,
+          702.2352941176472
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_cert_id",
+      "text": "1300652018456",
+      "points": [
+        [
+          545.8235294117645,
+          711.0588235294118
+        ],
+        [
+          682.2941176470587,
+          736.3529411764706
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_end_date_field_th",
+      "text": "วันสิ้นสุดใบอนุญาตทำงาน",
+      "points": [
+        [
+          875.2352941176471,
+          675.7647058823529
+        ],
+        [
+          1038.1764705882351,
+          702.8235294117648
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_end_date_field_en",
+      "text": "Date of Expiry",
+      "points": [
+        [
+          1040.5294117647056,
+          678.7058823529412
+        ],
+        [
+          1139.941176470588,
+          702.2352941176471
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_end_date",
+      "text": "13 FEB 2024",
+      "points": [
+        [
+          876.4117647058823,
+          708.1176470588235
+        ],
+        [
+          982.2941176470588,
+          734.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name_field_th",
+      "text": "ชื่อนายจ้าง",
+      "points": [
+        [
+          537.5882352941176,
+          1432.235294117647
+        ],
+        [
+          606.4117647058823,
+          1458.705882352941
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name_field_en",
+      "text": "Name of employer",
+      "points": [
+        [
+          609.3529411764705,
+          1436.3529411764705
+        ],
+        [
+          742.2941176470588,
+          1457.5294117647059
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name",
+      "text": "นางสาวกนกพัชร ทีพารัตน์",
+      "points": [
+        [
+          538.7647058823528,
+          1460.4705882352941
+        ],
+        [
+          743.470588235294,
+          1484.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\ework\\VW2400097_ework_2.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654
+}

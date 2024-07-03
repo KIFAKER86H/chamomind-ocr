@@ -1,0 +1,61 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "doc_title",
+      "text": "ใบตอบรับการแจ้งเกี่ยวกับการทำงานของคนต่างด้าว",
+      "points": [
+        [
+          455.6701030927835,
+          423.63917525773206
+        ],
+        [
+          1153.6082474226805,
+          466.938144329897
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name",
+      "text": "(บริษัท ซีเอสพีซี พลาสเทคอินตัสเทรียล จำกัด ๐๑๐๕๕๔๐๐๕๘๗๕๔)\n",
+      "points": [
+        [
+          268.0412371134021,
+          537.0412371134022
+        ],
+        [
+          1102.0618556701031,
+          585.4948453608248
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_field",
+      "text": "เรียน นายจ้าง\n",
+      "points": [
+        [
+          90.72164948453609,
+          534.9793814432991
+        ],
+        [
+          261.8556701030928,
+          584.4639175257734
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400101_Employer_ack_4.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654
+}

@@ -1,0 +1,350 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "doc_title_th",
+      "text": "ใบอนุญาตทำงาน",
+      "points": [
+        [
+          725.3246753246754,
+          410.8831168831169
+        ],
+        [
+          977.2727272727273,
+          452.44155844155847
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "doc_title_en",
+      "text": "WORK PERMIT",
+      "points": [
+        [
+          788.3116883116883,
+          454.3896103896104
+        ],
+        [
+          914.9350649350649,
+          470.62337662337666
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employee_name_field_th",
+      "text": "ชื่อผู้รับใบอนุญาตทำงาน",
+      "points": [
+        [
+          522.7272727272727,
+          488.1558441558442
+        ],
+        [
+          674.025974025974,
+          518.6753246753246
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employee_name_field_en",
+      "text": "Name of work permit holder",
+      "points": [
+        [
+          675.974025974026,
+          492.7012987012987
+        ],
+        [
+          880.5194805194805,
+          515.4285714285713
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employee_name",
+      "text": "MISS KHIN THIDAR TUN",
+      "points": [
+        [
+          524.025974025974,
+          520.6233766233765
+        ],
+        [
+          725.974025974026,
+          542.7012987012987
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_id_field_th",
+      "text": "หมายเลขประจำตัวคนต่างด้าว",
+      "points": [
+        [
+          525.3246753246754,
+          544.6493506493506
+        ],
+        [
+          708.4415584415584,
+          567.3766233766233
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_id_field_en",
+      "text": "Foreigner identification No.",
+      "points": [
+        [
+          711.6883116883117,
+          546.3458523458523
+        ],
+        [
+          903.2467532467532,
+          567.1250731250731
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_id",
+      "text": "6641050041653",
+      "points": [
+        [
+          525.3246753246754,
+          572.5714285714286
+        ],
+        [
+          657.7922077922078,
+          593.3506493506493
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id_field_th",
+      "text": "หนังสือเดินทางหรือเอกสารใช้แทนหนังสือเดินทางเลขที่",
+      "points": [
+        [
+          527.4032258064516,
+          655.6451612903226
+        ],
+        [
+          829.8225806451613,
+          679.0322580645161
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id_field_en",
+      "text": "Passport or Travel Document No.",
+      "points": [
+        [
+          832.241935483871,
+          658.0645161290323
+        ],
+        [
+          1041.1129032258066,
+          679.8387096774194
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "CC7834323",
+      "points": [
+        [
+          526.5967741935484,
+          689.516129032258
+        ],
+        [
+          619.3387096774194,
+          706.4516129032259
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_cert_id_field_th",
+      "text": "ใบอนุญาตทำงานเลขที่",
+      "points": [
+        [
+          541.1129032258065,
+          729.0322580645161
+        ],
+        [
+          683.8548387096774,
+          759.6774193548387
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_cert_id_field_en",
+      "text": "Work Permit No.",
+      "points": [
+        [
+          687.0806451612904,
+          733.0645161290323
+        ],
+        [
+          804.016129032258,
+          756.4516129032259
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_cert_id",
+      "text": "1008645004669",
+      "points": [
+        [
+          541.9193548387098,
+          770.1612903225806
+        ],
+        [
+          679.016129032258,
+          792.741935483871
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_end_date",
+      "text": "13 FEB 2024",
+      "points": [
+        [
+          879.016129032258,
+          765.3225806451613
+        ],
+        [
+          979.8225806451613,
+          791.9354838709678
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_end_date_field_th",
+      "text": "\nวันสิ้นสุดใบอนุญาตทำงาน",
+      "points": [
+        [
+          877.4032258064516,
+          729.8387096774194
+        ],
+        [
+          1036.274193548387,
+          758.0645161290323
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employ_end_date_field_en",
+      "text": "Date of Expiry",
+      "points": [
+        [
+          1039.1304347826087,
+          735.304347826087
+        ],
+        [
+          1138.586956521739,
+          756.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name",
+      "text": "บริษัท ซีเอสพีซี พลาสเทคอินดัสเทรียล จํากัด",
+      "points": [
+        [
+          532.0,
+          1782.2222222222222
+        ],
+        [
+          856.4444444444445,
+          1805.5555555555557
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name_field_th",
+      "text": "ชื่อนายจ้าง",
+      "points": [
+        [
+          531.5045045045044,
+          1756.7567567567564
+        ],
+        [
+          599.9729729729729,
+          1779.279279279279
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "employer_name_field_en",
+      "text": "Name of employer",
+      "points": [
+        [
+          602.6756756756756,
+          1759.4594594594594
+        ],
+        [
+          736.9099099099099,
+          1779.279279279279
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\ework\\VW2400101_ework_1.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654
+}

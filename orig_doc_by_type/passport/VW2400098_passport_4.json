@@ -1,0 +1,164 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "first_name",
+      "text": "sawn ko ko",
+      "points": [
+        [
+          573.1783439490447,
+          1076.9617834394905
+        ],
+        [
+          742.6050955414013,
+          1103.0764331210191
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "last_name",
+      "text": "saw san ko ko",
+      "points": [
+        [
+          573.8152866242038,
+          1125.3694267515925
+        ],
+        [
+          778.2738853503186,
+          1155.9426751592357
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "myanmar",
+      "points": [
+        [
+          573.1783439490447,
+          1178.235668789809
+        ],
+        [
+          716.4904458598727,
+          1203.0764331210191
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "01 FEB 1999",
+      "points": [
+        [
+          571.267515923567,
+          1222.1847133757963
+        ],
+        [
+          727.3184713375797,
+          1254.6687898089174
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "M",
+      "points": [
+        [
+          567.4458598726115,
+          1270.5923566878982
+        ],
+        [
+          603.1146496815287,
+          1303.7133757961785
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "24 MAR 2023",
+      "points": [
+        [
+          577.0,
+          1324.7324840764331
+        ],
+        [
+          748.9745222929937,
+          1357.8535031847134
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "23 MAR 2027",
+      "points": [
+        [
+          568.71974522293,
+          1375.0509554140128
+        ],
+        [
+          747.7006369426751,
+          1404.3503184713377
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "CC8032580",
+      "points": [
+        [
+          975.7261146496816,
+          1026.0063694267517
+        ],
+        [
+          1120.312101910828,
+          1052.1210191082803
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "hlaingbwe",
+      "points": [
+        [
+          813.3057324840764,
+          1227.9171974522294
+        ],
+        [
+          975.0891719745223,
+          1248.9363057324842
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400098_passport_4.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654,
+  "text": ""
+}

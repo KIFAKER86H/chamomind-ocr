@@ -1,0 +1,61 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "doc_title",
+      "text": "ใบตอบรับการแจ้งเกี่ยวกับการทำงานของคนต่างด้าว\n",
+      "points": [
+        [
+          488.93181818181813,
+          414.77272727272725
+        ],
+        [
+          1177.5681818181818,
+          460.22727272727275
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_name",
+      "text": "(BAR ๘๔๐๐๖๕๒๐๐๕๖๘๑)",
+      "points": [
+        [
+          337.79545454545456,
+          539.7727272727273
+        ],
+        [
+          684.3863636363636,
+          578.4090909090909
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "foreign_field",
+      "text": "เรียน คนต่างด้าว",
+      "points": [
+        [
+          128.70454545454544,
+          535.2272727272727
+        ],
+        [
+          332.1136363636364,
+          581.8181818181819
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400101_foreign_ack_1.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654
+}

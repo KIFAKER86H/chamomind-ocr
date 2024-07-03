@@ -1,0 +1,147 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "doc_title_en",
+      "text": "T.M.6",
+      "points": [
+        [
+          600.9177489177488,
+          490.9090909090909
+        ],
+        [
+          690.5281385281384,
+          525.974025974026
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "doc_title_th",
+      "text": "ตม.6",
+      "points": [
+        [
+          694.6406926406925,
+          492.2077922077922
+        ],
+        [
+          769.9653679653678,
+          525.974025974026
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "departure_card_th",
+      "text": "บัตรขาออก",
+      "points": [
+        [
+          1047.7792207792209,
+          487.012987012987
+        ],
+        [
+          1198.4285714285713,
+          520.7792207792207
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "departure_card_en",
+      "text": "DEPARTURE CARD",
+      "points": [
+        [
+          979.6570048309179,
+          522.623188405797
+        ],
+        [
+          1198.0144927536232,
+          544.3623188405796
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "admit_date_field",
+      "text": "ADMITTED",
+      "points": [
+        [
+          883.5217391304348,
+          801.367149758454
+        ],
+        [
+          1001.8792270531401,
+          827.4541062801932
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "valid_until_date_field",
+      "text": "UNTIL",
+      "points": [
+        [
+          883.0386473429951,
+          842.4299516908212
+        ],
+        [
+          951.1545893719807,
+          868.0338164251208
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "valid_until_date",
+      "text": "3 FEB 2023",
+      "points": [
+        [
+          969.0289855072464,
+          829.3864734299517
+        ],
+        [
+          1158.400966183575,
+          874.7971014492754
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "immigrate_id",
+      "text": "OH28980",
+      "points": [
+        [
+          857.9178743961353,
+          1047.9682539682542
+        ],
+        [
+          983.5217391304348,
+          1077.4368530020706
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "..\\immigrate\\VW2400097_immigrate_2.png",
+  "imageData": null,
+  "imageHeight": 2338,
+  "imageWidth": 1654,
+  "text": ""
+}

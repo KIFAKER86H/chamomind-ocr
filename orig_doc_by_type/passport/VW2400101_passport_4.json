@@ -1,0 +1,164 @@
+{
+  "version": "0.3.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "first_name",
+      "text": "sak noe",
+      "points": [
+        [
+          811.6176470588235,
+          1287.5228758169935
+        ],
+        [
+          925.9967320261438,
+          1318.2418300653594
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "last_name",
+      "text": "nonn",
+      "points": [
+        [
+          814.2320261437909,
+          1339.81045751634
+        ],
+        [
+          903.1209150326797,
+          1367.2614379084969
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "nationality",
+      "text": "myanmar",
+      "points": [
+        [
+          816.1928104575163,
+          1390.137254901961
+        ],
+        [
+          957.3692810457517,
+          1416.281045751634
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_date",
+      "text": "18 AUG 2000",
+      "points": [
+        [
+          816.8464052287582,
+          1443.7320261437908
+        ],
+        [
+          981.5522875816994,
+          1465.3006535947713
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "sex",
+      "text": "F",
+      "points": [
+        [
+          817.5,
+          1488.1764705882354
+        ],
+        [
+          829.9183006535948,
+          1510.3986928104575
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "issue_date",
+      "text": "14 DEC 2022",
+      "points": [
+        [
+          817.5,
+          1540.4640522875818
+        ],
+        [
+          976.3235294117648,
+          1568.5686274509803
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "expire_date",
+      "text": "13 DEC 2026",
+      "points": [
+        [
+          819.4607843137255,
+          1592.0980392156864
+        ],
+        [
+          977.6307189542483,
+          1614.3202614379086
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "passport_id",
+      "text": "CC7631369",
+      "points": [
+        [
+          1216.1928104575165,
+          1231.313725490196
+        ],
+        [
+          1359.983660130719,
+          1260.7254901960785
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "birth_place",
+      "text": "mudon",
+      "points": [
+        [
+          1053.4477124183009,
+          1437.1960784313726
+        ],
+        [
+          1163.90522875817,
+          1464.6470588235295
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "VW2400101_passport_4.png",
+  "imageData": null,
+  "imageHeight": 2394,
+  "imageWidth": 1735,
+  "text": ""
+}
