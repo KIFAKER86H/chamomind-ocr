@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import utils
-from utils import DocumentTypes
+from utils import DocumentTypes, is_similar
 
 
 def text_equivalent(text1, text2):
@@ -15,12 +15,25 @@ def identify_doc_type(img, ocr_results):
     # print(has_juris_record_title, has_juris)
     is_juris_record = has_juris_record_title and has_juris
     
-    #
+
+    has_juris_regis_title = any(is_similar(item[1], 'ใบสำคัญแสดงการจดทะเบียนห้างหุ้นส่วนบริษัท', 5) == 'ใบสำคัญแสดงการจดทะเบียนห้างหุ้นส่วนบริษัท' for item in ocr_results)
+    has_juris_regis = any('กรมพัฒนาธรุกิจการค้า' in is_similar(item[1], 'กรมพัฒนาธรุกิจการค้า', 3) for item in ocr_results)
+    is_has_juris_regis = has_juris_regis_title and has_juris_regis
+
+    has_foreign_data_title = any(is_similar(item[1], 'ค้นหาข้อมูลคนต่างด้าว', 3) == 'ค้นหาข้อมูลคนต่างด้าว' for item in ocr_results)
+    has_foreign_data = any('ข้อมูลคนต่างด้าว' in is_similar(item[1], 'ข้อมูลคนต่างด้าว', 3) for item in ocr_results)
+    is_has_foreign_data = has_foreign_data_title and has_foreign_data
+    
 
     if is_juris_record:
         return DocumentTypes.JURIS_RECORD
+    elif is_has_juris_regis:
+        return DocumentTypes.JURIS_REGIS
+    elif is_has_foreign_data:
+        return DocumentTypes.FOREIGN_DATA
     else:
         return DocumentTypes.UNKNOWN
+    
 
 
 def extract_fields(img, ocr_results, doc_type):
